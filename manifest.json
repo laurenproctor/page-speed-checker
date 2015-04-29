@@ -2,7 +2,7 @@
 	"manifest_version": 2, 
 
 	"name": "GTmetrix Analyzer Plugin", 
-	"description": "Analyze the speed of any page on the web with GTmetrix"
+	"description": "Analyze the speed of any page on the web with GTmetrix",
 	"version": "1.0",
 
 	"browser_action": {
